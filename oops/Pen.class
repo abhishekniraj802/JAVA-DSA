@@ -1,0 +1,24 @@
+// Source code is decompiled from a .class file using FernFlower decompiler.
+class Pen {
+   private String color;
+   private int tip;
+
+   Pen() {
+   }
+
+   String getColor() {
+      return this.color;
+   }
+
+   int getTip() {
+      return this.tip;
+   }
+
+   void setColor(String var1) {
+      this.color = var1;
+   }
+
+   void setTip(int var1) {
+      this.tip = var1;
+   }
+}
